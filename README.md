@@ -1,8 +1,8 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Julian Rios</h1>
 <h3 align="center">A passionate Python developer from Colombia</h3>
-<img aling="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Ftag%2Fpython-%2528programming-language%2529-wallpapers%3Flang%3DSpanish&psig=AOvVaw0lbdifp-Li9eVx0DNyVO_E&ust=1691736670382000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLitzazA0YADFQAAAAAdAAAAABAE">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viejojuli&label=Profile%20views&color=0e75b6&style=flat" alt="viejojuli" /> </p>
+<p align=""> <img src="https://komarev.com/ghpvc/?username=viejojuli&label=Profile%20views&color=0e75b6&style=flat" alt="viejojuli" /> </p>
 
 - 🔭 I’m currently working on **Data Science Projects**
 
